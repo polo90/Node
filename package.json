@@ -3,7 +3,7 @@
   "version"      : "0.0.0",
   "description"  : "Simple todo application.",
   "main"         : "server.js",
-  "author"       : "",
+  "author"       : "Scotch",
   "dependencies" : {
     "express"         : "~4.6.1",
     "mongoose"        : "~3.8.13",
@@ -13,4 +13,3 @@
     "mongoose-text-search" : "~0.0.2"
       }
 }
-
